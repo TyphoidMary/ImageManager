@@ -1,0 +1,16 @@
+C:\Users\typho\Source\Workspaces\ImageManager2\BackupWithWIM\BackupWithWIM\bin\Debug\BackupWithWIM.exe.config
+C:\Users\typho\Source\Workspaces\ImageManager2\BackupWithWIM\BackupWithWIM\bin\Debug\BackupWithWIM.exe
+C:\Users\typho\Source\Workspaces\ImageManager2\BackupWithWIM\BackupWithWIM\bin\Debug\BackupWithWIM.pdb
+C:\Users\typho\Source\Workspaces\ImageManager2\BackupWithWIM\BackupWithWIM\bin\Debug\Microsoft.Wim.dll
+C:\Users\typho\Source\Workspaces\ImageManager2\BackupWithWIM\BackupWithWIM\bin\Debug\Microsoft.Win32Ex.dll
+C:\Users\typho\Source\Workspaces\ImageManager2\BackupWithWIM\BackupWithWIM\bin\Debug\System.Management.Automation.dll
+C:\Users\typho\Source\Workspaces\ImageManager2\BackupWithWIM\BackupWithWIM\bin\Debug\Microsoft.Wim.xml
+C:\Users\typho\Source\Workspaces\ImageManager2\BackupWithWIM\BackupWithWIM\bin\Debug\Microsoft.Win32Ex.xml
+C:\Users\typho\Source\Workspaces\ImageManager2\BackupWithWIM\BackupWithWIM\obj\Debug\BackupWithWIM.csprojResolveAssemblyReference.cache
+C:\Users\typho\Source\Workspaces\ImageManager2\BackupWithWIM\BackupWithWIM\obj\Debug\BackupWithWIM.TotalImageManager.resources
+C:\Users\typho\Source\Workspaces\ImageManager2\BackupWithWIM\BackupWithWIM\obj\Debug\BackupWithWIM.PleaseWaitForm.resources
+C:\Users\typho\Source\Workspaces\ImageManager2\BackupWithWIM\BackupWithWIM\obj\Debug\BackupWithWIM.Properties.Resources.resources
+C:\Users\typho\Source\Workspaces\ImageManager2\BackupWithWIM\BackupWithWIM\obj\Debug\BackupWithWIM.csproj.GenerateResource.Cache
+C:\Users\typho\Source\Workspaces\ImageManager2\BackupWithWIM\BackupWithWIM\obj\Debug\BackupWithWIM.csproj.CoreCompileInputs.cache
+C:\Users\typho\Source\Workspaces\ImageManager2\BackupWithWIM\BackupWithWIM\obj\Debug\BackupWithWIM.exe
+C:\Users\typho\Source\Workspaces\ImageManager2\BackupWithWIM\BackupWithWIM\obj\Debug\BackupWithWIM.pdb

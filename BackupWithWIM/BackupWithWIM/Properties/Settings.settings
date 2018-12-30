@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BackupWithWIM.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WriteBootSector" Type="System.String" Scope="User">
+      <Value Profile="(Default)">true</Value>
+    </Setting>
+    <Setting Name="FormatDisk" Type="System.String" Scope="User">
+      <Value Profile="(Default)">true</Value>
+    </Setting>
+    <Setting Name="DefaultImageStore" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\ImageRepo</Value>
+    </Setting>
+    <Setting Name="VMRepoPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Hyper-V\Virtual Machines</Value>
+    </Setting>
+    <Setting Name="VDIServerHostname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="VDIServerUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">conteso\username</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
